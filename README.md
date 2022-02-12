@@ -1,6 +1,9 @@
 # Bitcoin-ATMS-and-you
 defeating the Bitcoin ATM
 
+# 02-12-22 cash ATM firmware same Bitcoin firmware legacy cash only ATM
+# https://drive.google.com/file/d/1ZJTrZ5UIQHXAARTGnjeL2HfOfkOJhNky/view?usp=drivesdk
+
 # 02-11-22 update windows terminal
 https://drive.google.com/file/d/1ZE6O9qDdZJOYRL9Ww7Hm-WA2-6WrQZ3C/view?usp=drivesdk
 
