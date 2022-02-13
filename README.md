@@ -3,7 +3,7 @@ defeating the Bitcoin ATM
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_173113377_HDR.jpg)
 9:48PM MT
-![s1](https://drive.google.com/file/d/1ZiCo3poJBDpeyGM9hIVpt0CP0JuMR6HO/view?usp=drivesdk)
+https://drive.google.com/file/d/1ZiCo3poJBDpeyGM9hIVpt0CP0JuMR6HO/view?usp=drivesdk
 # 02-12-22 cash ATM firmware same Bitcoin firmware legacy cash only ATM
 # https://drive.google.com/file/d/1ZJTrZ5UIQHXAARTGnjeL2HfOfkOJhNky/view?usp=drivesdk
 
