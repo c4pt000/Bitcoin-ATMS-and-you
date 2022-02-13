@@ -14,6 +14,9 @@ when the person had the pin from eavesdropping they basically changed the pin to
 
 my attempt today to print with the debug menu
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_232852174.jpg)
+
+
+some of my 4 reciepts with other pre existing receipts jammed into the slot for the receipt collection output to paper slot
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231103109.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231109933_HDR.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231115956_HDR.jpg)
