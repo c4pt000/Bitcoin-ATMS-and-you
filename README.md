@@ -12,7 +12,8 @@ my hacking attempt guess was simple because the machine had a pre existing hack 
 when the person had the pin from eavesdropping they basically changed the pin to a simple default pin guess
 </p>
 
-
+my attempt today to print with the debug menu
+![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_232852174.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231103109.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231109933_HDR.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231115956_HDR.jpg)
