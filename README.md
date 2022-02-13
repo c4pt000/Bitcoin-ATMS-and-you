@@ -9,6 +9,14 @@ when the person had the pin from eavesdropping they basically changed the pin to
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231103109.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231109933_HDR.jpg)
+![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231115956_HDR.jpg)
+
+
+
+
+
+
+
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_173113377_HDR.jpg)
 9:48PM MT
