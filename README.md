@@ -25,7 +25,7 @@ some of my 4 reciepts with other pre existing receipts jammed into the slot for 
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231129149_HDR.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231146117.jpg)
-https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_173554364.jpg
+![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_173554364.jpg)
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_173113377_HDR.jpg)
 9:48PM MT
