@@ -1,6 +1,9 @@
 # Bitcoin-ATMS-and-you
 starving and homeless and crazy
 send money here if you found this infozine helpful more to come
+
+# my deposit
+# 1L9oDt3Drhz79oHePXLT2x4aT7EQTunRb4
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/Screenshot_20220212-233937-930.png)
 # defeating the Bitcoin ATM
 <p>
