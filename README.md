@@ -1,5 +1,6 @@
 # Bitcoin-ATMS-and-you
-defeating the Bitcoin ATM
+
+# defeating the Bitcoin ATM
 
 legacy cash ATM reciepts
 these were jammed in the machine already.
