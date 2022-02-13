@@ -1,12 +1,17 @@
 # Bitcoin-ATMS-and-you
 
 # defeating the Bitcoin ATM
-
+<p>
 legacy cash ATM reciepts
 these were jammed in the machine already.
+<br>
 this is what i specutlate it's not what i know...
+<br>
 my hacking attempt guess was simple because the machine had a pre existing hack from someone who eavesdropped on a technician entering a pin
+<br>
 when the person had the pin from eavesdropping they basically changed the pin to a simple default pin guess
+</p>
+
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231103109.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231109933_HDR.jpg)
