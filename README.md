@@ -24,7 +24,7 @@ my attempt today to print with the debug menu
 some of my 4 reciepts with other pre existing receipts jammed into the slot for the receipt collection output to paper slot
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231103109.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231109933_HDR.jpg)
-
+# paper log and paper printout if the actual machine api key and passcode for the raw API access
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/Screenshot_20220215-080936-382~2.png)
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Bitcoin-ATMS-and-you/main/IMG_20220212_231115956_HDR.jpg)
